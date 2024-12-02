@@ -1,3 +1,4 @@
+"""Test"""
 import pytest
 from menu import show_menu, select_menu
 

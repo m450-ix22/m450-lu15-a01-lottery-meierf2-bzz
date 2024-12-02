@@ -1,3 +1,4 @@
+"""Test"""
 import pytest
 from authenticate import login, load_people
 from person import Person

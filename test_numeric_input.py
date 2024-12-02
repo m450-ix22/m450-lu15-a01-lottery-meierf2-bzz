@@ -1,3 +1,4 @@
+"""Test"""
 import pytest
 from numeric_input import read_int, read_float
 

@@ -1,3 +1,4 @@
+"""Test"""
 import pytest
 
 import main

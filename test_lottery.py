@@ -1,3 +1,4 @@
+"""Test"""
 import pytest
 from lottery import create_ticket, select_numbers
 from ticket import Ticket

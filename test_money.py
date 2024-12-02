@@ -1,3 +1,4 @@
+"""Test"""
 import pytest
 from money import transfer_money, select_transaction
 from person import Person
