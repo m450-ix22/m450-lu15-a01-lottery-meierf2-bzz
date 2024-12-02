@@ -61,4 +61,4 @@ def test_create_ticket_with_insufficient_balance(monkeypatch, capsys):
 
     # Überprüfen, ob die richtige Nachricht ausgegeben wurde
     captured = capsys.readouterr()
-    assert "Zuwenig Guthaben" in captured.out
+    assert 'Zuwenig Guthaben' in captured.out
