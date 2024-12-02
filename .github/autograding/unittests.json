@@ -16,5 +16,35 @@
     "function": "test_main_ticket",
     "timeout": 10,
     "points": 1
+  },
+  {
+    "name": "test_authenticate",
+    "function": "test_authenticate",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_lottery",
+    "function": "test_lottery",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_menu",
+    "function": "test_menu",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_money",
+    "function": "test_money",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_numeric_input",
+    "function": "test_numeric_input",
+    "timeout": 10,
+    "points": 1
   }
 ]
